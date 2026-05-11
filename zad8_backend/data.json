@@ -1,0 +1,19 @@
+{
+  "umiejetnosci": [
+    "HTML/CSS",
+    "C++",
+    "C#",
+    "Git",
+    "Angielski/Polski"
+  ],
+  "projekty": [
+    {
+      "nazwa": "Kalkulator konsolowy (C++)",
+      "opis": "Aplikacja wykonująca podstawowe operacje matematyczne."
+    },
+    {
+      "nazwa": "Gra Zgadnij liczbę (Python)",
+      "opis": "Prosta gra, w której użytkownik zgaduje liczbę."
+    }
+  ]
+}
